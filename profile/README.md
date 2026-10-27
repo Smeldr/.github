@@ -1,10 +1,10 @@
 # Smeldr
 
-Smeldr is a ledger for the reasoning and decisions made by you and your AI agents. It keeps track of what was decided, why, who agreed, what is still in force, and what rests on it.
+Smeldr is a ledger for the reasoning and decisions made by you and your AI agents. It keeps track of what was decided, why, who decided it, what is still in force, and what rests on it.
 
 Not another place to store context. A record you can rely on, that people and agents both read and write.
 
-**Decisions that stay put.** A Decision is proposed, then agreed by someone with the right to. Once agreed, it is never rewritten. If it changes, a new Decision replaces it, and the old one stays in the record.
+**Decisions that stay put.** A Decision is proposed, then ratified by someone with the right to. Once ratified, it is never rewritten. If it changes, a new Decision replaces it, and the old one stays in the record.
 
 **Rules where the work happens.** You say which files need whose approval. When a pull request touches them, Smeldr lists the Decisions that apply and puts the change in front of the right person or agent. In an Area that requires approval, a merge waits for the answer.
 
